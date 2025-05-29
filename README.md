@@ -5,7 +5,6 @@ Ce projet vise à déployer une architecture réseau sécurisée basée sur IPFi
 ## 🎥 Démonstration vidéo
 
 👉 [Clique ici pour voir la vidéo de démonstration](https://youtu.be/oJ-BIiL0k1k)  
-*
 
 ## 🏗️ Architecture du projet
 
