@@ -19,4 +19,7 @@ Ce projet vise à déployer une architecture réseau sécurisée basée sur IPFi
 - Détection et blocage par Suricata
 - Redirection de ports (HTTP) vers la DMZ
 - Règles de pare-feu pour segmenter les flux
+## 📄 Rapport
+👉 [Télécharger le rapport PDF](./Rapport_ipfire.pdf)
+
 
